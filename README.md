@@ -17,15 +17,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=michelito10&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelito10&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ### 🔥 Streak de commits
 
 <p align="center">
@@ -52,12 +43,3 @@
 - 🎯 Focado em evoluir como dev todos os dias  
 - ⚡ Curto código limpo e projetos minimalistas  
 - 📚 Sempre aprendendo algo novo  
-
----
-
-### 🐍 Snake comendo seus commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/michelito10/michelito10/output/github-contribution-grid-snake.svg">
-</p>
-```
