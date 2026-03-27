@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor em evolução <br>
-  🚀 Focado em front-end e criando coisas daora
+  🚀 Focado em front-end e criar projetos
 </p>
 
 ---
@@ -20,8 +20,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=michelito10&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelito10&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -29,12 +29,12 @@
 ### 🔥 Streak de commits
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=michelito10&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌎 Onde me encontrar
+### 🌎 Onde me contatar?
 
 <div> 
   <a href="mailto:michelcaetano951@gmail.com">
@@ -50,7 +50,7 @@
 ### 🧠 Sobre mim
 
 - 🎯 Focado em evoluir como dev todos os dias  
-- ⚡ Curto código limpo e projetos minimalistas (sim, sem painel mesmo KKKK)  
+- ⚡ Curto código limpo e projetos minimalistas  
 - 📚 Sempre aprendendo algo novo  
 
 ---
@@ -58,6 +58,6 @@
 ### 🐍 Snake comendo seus commits
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/michelito10/michelito10/output/github-contribution-grid-snake.svg">
 </p>
 ```
